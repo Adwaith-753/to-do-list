@@ -25,5 +25,5 @@ A simple To-Do List application built using HTML, CSS, and JavaScript.
    ## 🌟 Live Demo
 
 You can view the live demo here:  
-[https://adwaith-753.github.io/TO do-list](https://github.com/Adwaith-753/to-do-list.git)
+[https://adwaith-753.github.io/To Do List](https://adwaith-753.github.io/to-do-list/)
 
