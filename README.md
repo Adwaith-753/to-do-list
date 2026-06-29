@@ -1,33 +1,23 @@
-## 🌐 API
+# 📝 To-Do List App
 
-This project uses the **OpenWeather Current Weather API** to fetch real-time weather information.
+A simple To-Do List application built using HTML, CSS, and JavaScript.
 
-### Built-in API Request by City Name
+## Features
 
-The application sends a request using the city name entered by the user.
+- ✅ Add new tasks
+- ✔️ Mark tasks as completed
+- ❌ Delete tasks
+- 🎨 Simple and responsive UI
 
-**Request URL**
+## Technologies Used
 
-```http
-https://api.openweathermap.org/data/2.5/weather?q={CITY_NAME}&units=metric&appid={API_KEY}
-```
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
 
-**Example**
+## How It Works
 
-```http
-https://api.openweathermap.org/data/2.5/weather?q=Kochi&units=metric&appid=YOUR_API_KEY
-```
-
-The API returns current weather information including:
-
-* 🌡️ Temperature
-* 🌤️ Weather condition
-* 💧 Humidity
-* 🌬️ Wind speed
-* 📍 City name
-* 🌍 Country
-* ☁️ Weather icon information
-
-**API Documentation**
-
-https://openweathermap.org/current
+1. Enter a task in the input box.
+2. Click the **Add** button.
+3. Click on a task to mark it as completed.
+4. Click the **×** icon to delete the task.
